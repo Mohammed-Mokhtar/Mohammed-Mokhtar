@@ -73,8 +73,10 @@ Full-Stack Developer (Next.js + Node.js) with strong problem-solving skills and 
 ###
 
 <p align="left">
-  <a href="www.linkedin.com/in/mohamed-mokhtar-fullstack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-sakr-82670a225" height="30" width="40" /></a>
-
+  <a href="https://www.linkedin.com/in/mohamed-mokhtar-fullstack/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" alt="linkedin" />
+  </a>
+  <img width="15" />
 
 
   <a href="mailto:mohamed.mokhtar.fai@gmail.com">
